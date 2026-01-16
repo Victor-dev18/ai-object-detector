@@ -92,15 +92,4 @@ http://localhost:7860
 
 Built with ❤️ by **Victor-dev18**
 
----
 
-### 🚀 Portfolio Tip
-
-This project showcases:
-
-* Cloud-native deployment
-* Dockerized ML inference
-* Transformer-based computer vision
-* Production-ready Streamlit apps
-
-👉 Perfect for **AI/ML, DevOps, and Full-Stack ML portfolios**
