@@ -46,7 +46,7 @@ This project demonstrates a **Serverless / Cloud-Native AI workflow**:
 
 ### Object Detection in Action
 
-![Object Detection Example](screenshot.png)
+![Object Detection Example](AI-Object-Detect.png)
 
 
 ---
